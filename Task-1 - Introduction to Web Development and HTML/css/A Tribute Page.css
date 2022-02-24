@@ -1,6 +1,6 @@
 .time {
   position: relative;
-  left: 65%;
+  left: 75%;
   margin: 0;
   padding: 0;
   font-weight: bolder;
@@ -12,7 +12,7 @@
 
 .name {
   position: relative;
-  left: 65%;
+  left: 70%;
   margin: 10px;
   font-size: 2cm;
   color: black;
@@ -24,8 +24,8 @@
   position: relative;
   margin-top: auto;
   text-align: center;
-  left: 107%;
-  font-size: medium;
+  left: 117%;
+  font-size: x-large;
   color: #fd0000;
 }
 
@@ -43,8 +43,7 @@ header {
   display: block;
   position: relative;
   margin: auto;
-  left: 105%;
-  top: 60%;
+  left: 115%;
   width: 298.5px;
 }
 
